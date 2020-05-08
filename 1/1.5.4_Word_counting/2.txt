@@ -1,0 +1,9 @@
+Question: How to test 1.c which is dumber version of wc in Unix?
+My answer:
+  Big text files to defeat int counters for sure :)
+  I would also check some non-standard alphabets.
+Disclaimer:
+  Yes, I know those "file" related programs now are dumb,
+  because I havn't reached streams yet and i cannot "pipe"
+  text file into program as a normal human being.
+  Still doing it for fun and learning purposes :)
