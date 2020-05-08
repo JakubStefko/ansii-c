@@ -1,0 +1,3 @@
+/*
+  Make histogram for any character
+*/
